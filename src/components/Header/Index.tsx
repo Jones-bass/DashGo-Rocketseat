@@ -1,6 +1,8 @@
 import { Flex, } from '@chakra-ui/react'
 
 import { Logo } from './Logo';
+import { NotificationNav } from './NotificationNav';
+import { Profile } from './Profile';
 import { SearchBox } from './Search';
 
 
@@ -18,6 +20,8 @@ export function Header() {
     >
       <Logo />
       <SearchBox />
+      <NotificationNav/>
+      <Profile/>
     </Flex>
   )
 }
