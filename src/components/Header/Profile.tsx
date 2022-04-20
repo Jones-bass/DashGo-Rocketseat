@@ -2,8 +2,8 @@ import { Flex, Text, Box, Avatar } from '@chakra-ui/react'
 
 export function Profile() {
   return (
-    <Flex>
-        <Box>
+    <Flex align='center'>
+        <Box mr='6' textAlign='right'>
           <Text>Jones Bass</Text>
           <Text color='gray.300' fontSize='small'>
             jonesbass.tb@gmail.com
