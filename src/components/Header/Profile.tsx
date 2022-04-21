@@ -7,7 +7,7 @@ export function Profile({ showProfileData = true}: ProfileProps) {
   return (
     <Flex align='center'>
       { showProfileData && (
-        <Box mr='6' textAlign='right'>
+        <Box mr='4' textAlign='right'>
           <Text>Jones Bass</Text>
           <Text color='gray.300' fontSize='small'>
             jonesbass.tb@gmail.com
