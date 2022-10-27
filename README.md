@@ -1,8 +1,19 @@
-# DashGo - Rocketseat Aplicação do Futuro
+# DashGo - Aplicação da Rocketseat
 
-* Apilcação em Typescript
+## Apilcação em NEXT
 
-* Bibliotecas Theme UI
+<br />
+<p align="center"> <img src="public/illustration.gif"  width ="50%"> </p>
+<br />
 
-Theme UI é uma biblioteca para criar interfaces de usuário temáticas com base em princípios de design baseados em restrições. Crie bibliotecas de componentes personalizados, sistemas de design, aplicativos da Web, temas Gatsby e muito mais com uma API flexível para a melhor ergonomia do desenvolvedor.
+## Utilizamos a Biblioteca Chakra UI 
+</p>
+
+Vem com um modelo de componentes de estilo muito intuitivo, semelhante a CSS <br/> 
+e baseado em prop, facilitando o aprendizado. O nome dos componentes e os <br/>
+nomes das props também são muito fáceis de entender.<br/>
+
+Uma biblioteca de componentes React cuidadosamente criados que vem com todos <br/>
+os benefícios de estilo do Tailwind e cuida de todos os detalhes.
+
 
